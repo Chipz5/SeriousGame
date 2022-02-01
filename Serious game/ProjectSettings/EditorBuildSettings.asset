@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 3cd77c8d2a40998499e700fe3b797762
+  - enabled: 1
+    path: Assets/Scenes/Movement.unity
+    guid: 37ff61cd1f0da88449639ab007da4f3a
+  - enabled: 1
+    path: Assets/Scenes/TapScene.unity
+    guid: 2421c1e32c590184a832f759d71c846c
+  - enabled: 1
+    path: Assets/Scenes/SwipeScene.unity
+    guid: b2458fe9fe87ee04ea1c006dcd0e5380
+  - enabled: 1
+    path: Assets/Scenes/TapAtSpecificPoint.unity
+    guid: 9fc06995abd574441ad0a67c949b7918
+  - enabled: 1
+    path: Assets/Scenes/NumberScene.unity
+    guid: 58afd80fa836c894c8f71ad3490bc1f5
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: 581f687d2559fdd4fb925f7e40db6e4f
+  m_configObjects: {}
